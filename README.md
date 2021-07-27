@@ -1,1 +1,1 @@
-# zoom-automation-bot
+# Zoom Automation Bot
