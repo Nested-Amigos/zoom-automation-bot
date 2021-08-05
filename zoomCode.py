@@ -66,7 +66,7 @@ def join():
     subprocess.call("C:\\Users\\ASD\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe")
     print("Zoom run succesful!")
     while True:
-        join1 = pyautogui.locateOnScreen('assets\\join1.png')
+        join1 = pyautogui.locateOnScreen('assets/join1.png')
         if join1 != None:
             pyautogui.click(join1)
             print("Join 1 Succesful!")
